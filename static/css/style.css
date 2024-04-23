@@ -16,12 +16,7 @@ body::-webkit-scrollbar {
   display: flex;
   height: 90px;
   color: rgb(253, 253, 253);
-  /*background-image: linear-gradient(
-    to left,
-    rgba(36, 3, 88, 0.859),
-    rgb(75, 0, 130),
-    rgb(75, 0, 130)
-  );*/
+
   background-color: rgb(12, 12, 12);
   font-size: 15px;
 }
