@@ -36,10 +36,6 @@ function removeCartItem(event) {
 
   //Atualizar o total do carrinho após remover um item
   updateCartTotal();
-
-  //verifica se tem elemento no carrinho uma vez que removeu
-  //Se não há, deve-se ocultar o carrinho
-  //closeCart();
 }
 
 //Função de atualizar o total do carrnho
